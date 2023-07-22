@@ -1,0 +1,16 @@
+{
+  "name": "com.il.pinacolada",
+  "version": "2023.7.22",
+  "description": "Odin validators for Unity.",
+  "displayName": "PinaColada",
+  "author": {
+    "name": "Iaroslav Lakhin",
+    "email": "iaroslav.lakhin@gmail.com"
+  },
+  "keywords": [
+    "Extensions",
+    "Scopes",
+    "Utilities"
+  ],
+  "license": "MIT"
+}
